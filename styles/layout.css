@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+}
 /* Three columns side by side */
 .column {
     float: left;
