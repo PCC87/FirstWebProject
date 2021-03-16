@@ -15,8 +15,8 @@ body {
 /* -----------------------------------------Footer-----------------------------------------*/
 .footer-basic {
     padding: 40px 0;
-    /* background-color: #ffff; */
     color: #fffafa;
+    text-align: center;
 }
 
 .footer-basic ul {
@@ -37,8 +37,6 @@ body {
     text-decoration: none;
     opacity: 0.8;
 }
-
-
 
 .footer-basic ul a:hover {
     opacity: 1;
@@ -74,15 +72,10 @@ body {
     color: inherit;
     margin-bottom: 0;
 }
-
-
-
-
-/* 
-
-
-
- */
+.list-inline-item {
+    display: inline-block;
+    justify-content: center;
+}
 /* -----------------------------------------integrantes.html-----------------------------------------*/
 /* Three columns side by side */
 .column {
