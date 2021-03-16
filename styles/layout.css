@@ -13,10 +13,10 @@ body {
     text-decoration: none;
 }
 /* -----------------------------------------Footer-----------------------------------------*/
-/* .footer-basic {
+.footer-basic {
     padding: 40px 0;
-    background-color: #ffff;
-    color: #4b4c4d;
+    /* background-color: #ffff; */
+    color: #fffafa;
 }
 
 .footer-basic ul {
@@ -37,6 +37,8 @@ body {
     text-decoration: none;
     opacity: 0.8;
 }
+
+
 
 .footer-basic ul a:hover {
     opacity: 1;
@@ -69,9 +71,18 @@ body {
     margin-top: 15px;
     text-align: center;
     font-size: 13px;
-    color: #aaa;
+    color: inherit;
     margin-bottom: 0;
-} */
+}
+
+
+
+
+/* 
+
+
+
+ */
 /* -----------------------------------------integrantes.html-----------------------------------------*/
 /* Three columns side by side */
 .column {
